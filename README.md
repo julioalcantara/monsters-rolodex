@@ -6,7 +6,7 @@ An React "moster-lodex" application from [Udemy](https://www.udemy.com/course/co
 * The is a custom search bar where the user can find the Monster by its name
 
 ## GIF
-![450jvp](https://user-images.githubusercontent.com/55692823/84574644-abaf0200-ad9f-11ea-96f3-d305e007701f.gif)
+[](src/assets/application.gif)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
