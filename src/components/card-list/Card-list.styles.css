@@ -1,0 +1,10 @@
+.card-list {
+  width: 95vw;
+  margin: 0 auto;
+  /* display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr; */
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  padding: 5px;
+}
